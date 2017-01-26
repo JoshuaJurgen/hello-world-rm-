@@ -1,2 +1,2 @@
 # hello-world-rm-
-notm uch to say, just starting out.
+not much to say, just starting out.
